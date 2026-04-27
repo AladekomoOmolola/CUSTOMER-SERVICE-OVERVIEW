@@ -41,4 +41,3 @@ Tech Support Categories: 3
 * Power BI (Data Visualization)
 * Data Modeling
 * DAX (Data Analysis Expressions)
-
