@@ -11,7 +11,6 @@ Organizations often struggle to:
 * Identify high-value customer segments
 * Analyze the impact of support services on revenue
 * Track customer lifecycle and tenure
-* 
 This dashboard addresses these gaps through interactive and data-driven visualization.
 
 ---
